@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Radio Towers",
+        "access_rules": [
+    "map"
+],
+        "children": [
+            {
+                "name": "Upton",
+                "access_rules": [],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Radio Towers",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 156,
+                        "y": 714,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Upton",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Easton",
+                "access_rules": [
+                    "lighter"
+                ],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Radio Towers",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 743,
+                        "y": 889,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Easton",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowy Peaks",
+                "access_rules": [
+                    "snowtires,snowypeakstunnel"
+                ],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Radio Towers",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 582,
+                        "y": 201,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Snowy Peaks",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fishing Town",
+               "access_rules": [
+    "icechains,bumperbar,fishingtowntunnel,$three_radio_towers"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Radio Towers",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 1084,
+                        "y": 688,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Fishing Town",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

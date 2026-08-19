@@ -1,0 +1,380 @@
+[
+    {
+        "name": "Blind Bags",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Mountain Town",
+                "access_rules": [
+"map"
+],
+                "children": [
+                    {
+                        "name": "Bag 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 1053,
+                                "y": 2399,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1641,
+                                "y": 254,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bag 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 1053,
+                                "y": 2399,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1708,
+                                "y": 254,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bag 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 1053,
+                                "y": 2399,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1773,
+                                "y": 257,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 3",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bag 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 1053,
+                                "y": 2399,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1834,
+                                "y": 257,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 4",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Snowy Peaks",
+                "access_rules": [],
+                "children": [
+                    {
+                        "name": "Bag 1",
+                        "access_rules": [
+"lighter,snowtires,snowypeakstunnel"
+],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 2479,
+                                "y": 2175,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1644,
+                                "y": 398,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bag 2",
+                        "access_rules": [
+"lighter,snowtires,snowypeakstunnel"
+],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 2479,
+                                "y": 2175,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1713,
+                                "y": 396,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bag 3",
+                        "access_rules": [
+"lighter,snowtires,snowypeakstunnel"
+],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 2479,
+                                "y": 2175,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1774,
+                                "y": 398,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 3",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bag 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 2479,
+                                "y": 2175,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1837,
+                                "y": 402,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 4",
+                                "access_rules": [
+"lighter,snowtires,snowypeakstunnel"
+],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fishing Town",
+                "access_rules": [],
+                "children": [
+                    {
+                        "name": "Bag 1",
+                        "access_rules": [
+    "fishingtowntunnel,$three_radio_towers"
+],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 1642,
+                                "y": 778,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1648,
+                                "y": 540,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bag 2",
+                        "access_rules": [
+    "fishingtowntunnel,$three_radio_towers"
+],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 1642,
+                                "y": 778,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1708,
+                                "y": 540,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bag 3",
+                        "access_rules": [
+    "fishingtowntunnel,$three_radio_towers"
+],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 1642,
+                                "y": 778,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1773,
+                                "y": 541,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 3",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bag 4",
+                        "access_rules": [
+    "fishingtowntunnel,$three_radio_towers"
+],
+                        "visibility_rules": [],
+                        "map_locations": [
+                            {
+                                "map": "Blind Bags",
+                                "x": 1642,
+                                "y": 778,
+                                "size": 6
+                            },
+                            {
+                                "map": "Overworld",
+                                "x": 1837,
+                                "y": 542,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "Bag 4",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

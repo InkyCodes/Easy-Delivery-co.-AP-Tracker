@@ -1,0 +1,355 @@
+[
+    {
+        "name": "Clifton",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+    "fishingtowntunnel,$three_radio_towers"
+],
+        "children": [
+            {
+                "name": "To Upton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Clifton",
+                        "x": 568,
+                        "y": 238,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 868,
+                        "y": 969,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Weston",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Clifton",
+                        "x": 1991,
+                        "y": 2325,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 899,
+                        "y": 968,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Easton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Clifton",
+                        "x": 1810,
+                        "y": 936,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 929,
+                        "y": 969,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Winton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lighter,snowtires,snowypeakstunnel"
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Clifton",
+                        "x": 1466,
+                        "y": 2284,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 869,
+                        "y": 996,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Munton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lighter,snowtires,snowypeakstunnel"
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Clifton",
+                        "x": 1818,
+                        "y": 2369,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 899,
+                        "y": 996,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Lopton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lighter,snowtires,snowypeakstunnel"
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Clifton",
+                        "x": 1946,
+                        "y": 513,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 932,
+                        "y": 995,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Clifton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Clifton",
+                        "x": 49,
+                        "y": 474,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 869,
+                        "y": 1024,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Damton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Clifton",
+                        "x": 1800,
+                        "y": 752,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 900,
+                        "y": 1024,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Smalton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Clifton",
+                        "x": 777,
+                        "y": 544,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 931,
+                        "y": 1024,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

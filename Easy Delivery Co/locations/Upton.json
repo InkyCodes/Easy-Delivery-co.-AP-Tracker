@@ -1,0 +1,355 @@
+[
+    {
+        "name": "Upton",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "To Upton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Upton",
+                        "x": 1583,
+                        "y": 190,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 574,
+                        "y": 610,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Weston",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "map"
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Upton",
+                        "x": 1180,
+                        "y": 1819,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 603,
+                        "y": 609,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Easton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "map"
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Upton",
+                        "x": 2011,
+                        "y": 1026,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 630,
+                        "y": 609,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Winton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lighter,snowtires,snowypeakstunnel"
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Upton",
+                        "x": 1659,
+                        "y": 2314,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 573,
+                        "y": 636,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Munton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lighter,snowtires,snowypeakstunnel"
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Upton",
+                        "x": 2171,
+                        "y": 1852,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 604,
+                        "y": 638,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Lopton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lighter,snowtires,snowypeakstunnel"
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Upton",
+                        "x": 449,
+                        "y": 712,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 631,
+                        "y": 638,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Clifton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "fishingtowntunnel,$three_radio_towers"
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Upton",
+                        "x": 869,
+                        "y": 1638,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 572,
+                        "y": 664,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Damton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "fishingtowntunnel,$three_radio_towers"
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Upton",
+                        "x": 765,
+                        "y": 641,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 604,
+                        "y": 663,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "To Smalton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "fishingtowntunnel,$three_radio_towers"
+                ],
+                "sections": [
+                    {
+                        "name": "Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Perfect Delivery",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Upton",
+                        "x": 658,
+                        "y": 1961,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 633,
+                        "y": 663,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "name": "Snowcats",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Theo",
+                "access_rules": [],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 575,
+                        "y": 711,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Theo",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cici",
+                "access_rules": [
+    "map"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 172,
+                        "y": 875,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Cici",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fortino",
+                "access_rules": [
+    "fishingtowntunnel,$three_radio_towers"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 866,
+                        "y": 765,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Fortino",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ellie",
+                "access_rules": [
+    "fishingtowntunnel,$three_radio_towers"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 877,
+                        "y": 766,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Ellie",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fit",
+                "access_rules": [
+    "icechains,fishingtowntunnel,$three_radio_towers"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 1271,
+                        "y": 760,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Fit",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tooey",
+                "access_rules": [
+    "map"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 166,
+                        "y": 678,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Tooey",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Reed",
+                "access_rules": [
+    "fishingtowntunnel,$three_radio_towers"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 1233,
+                        "y": 888,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Reed",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fives",
+                "access_rules": [
+"lighter,snowtires,snowypeakstunnel"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 715,
+                        "y": 359,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Fives",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sixo",
+                "access_rules": [
+"lighter,snowtires,snowypeakstunnel"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 717,
+                        "y": 130,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Sixo",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ada",
+                "access_rules": [
+    "map"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 532,
+                        "y": 876,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Ada",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Foreman",
+                "access_rules": [
+"lighter,snowtires,snowypeakstunnel"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 373,
+                        "y": 413,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Foreman",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Gus",
+                "access_rules": [],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 141,
+                        "y": 846,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Gus",
+                        "access_rules": [
+    "map"
+],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Seb",
+                "access_rules": [
+"lighter,snowtires,snowypeakstunnel"
+],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Snowcats",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 585,
+                        "y": 226,
+                        "size": 20,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Seb",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

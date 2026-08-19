@@ -1,0 +1,250 @@
+[
+    {
+        "name": "cookingpot",
+        "type": "toggle",
+        "img": "images/items/cookingpot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cookingpot"
+    },
+    {
+        "name": "bumperbar",
+        "type": "toggle",
+        "img": "images/items/bumperbar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bumperbar"
+    },
+{
+    "name": "radiotower_upton",
+    "type": "toggle",
+    "img": "images/items/radiotower_upton.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "radiotower_upton"
+},
+{
+    "name": "radiotower_easton",
+    "type": "toggle",
+    "img": "images/items/radiotower_easton.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "radiotower_easton"
+},
+{
+    "name": "radiotower_snowypeaks",
+    "type": "toggle",
+    "img": "images/items/radiotower_snowypeaks.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "radiotower_snowypeaks"
+},
+{
+    "name": "radiotower_fishingtown",
+    "type": "toggle",
+    "img": "images/items/radiotower_fishingtown.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "radiotower_fishingtown"
+},
+    {
+        "name": "emptycan",
+        "type": "toggle",
+        "img": "images/items/emptycan.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "emptycan"
+    },
+    {
+        "name": "teabags",
+        "type": "toggle",
+        "img": "images/items/teabags.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "teabags"
+    },
+    {
+        "name": "energydrink",
+        "type": "toggle",
+        "img": "images/items/energydrink.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "energydrink"
+    },
+    {
+        "name": "coffeepowder",
+        "type": "toggle",
+        "img": "images/items/coffeepowder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "coffeepowder"
+    },
+    {
+        "name": "fishingrod",
+        "type": "toggle",
+        "img": "images/items/fishingrod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fishingrod"
+    },
+    {
+        "name": "snowypeakstunnel",
+        "type": "toggle",
+        "img": "images/items/snowypeakstunnel.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "snowypeakstunnel"
+    },
+    {
+        "name": "fishingtowntunnel",
+        "type": "toggle",
+        "img": "images/items/fishingtowntunnel.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "fishingtowntunnel"
+    },
+    {
+        "name": "lighter",
+        "type": "toggle",
+        "img": "images/items/lighterfixed.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lighter"
+    },
+    {
+        "name": "lantern",
+        "type": "toggle",
+        "img": "images/items/lantern.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lantern"
+    },
+    {
+        "name": "fishsoup",
+        "type": "toggle",
+        "img": "images/items/fishsoup.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fishsoup"
+    },
+    {
+        "name": "coffee",
+        "type": "toggle",
+        "img": "images/items/coffee.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "coffee"
+    },
+    {
+        "name": "icechains",
+        "type": "toggle",
+        "img": "images/items/icechains.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icechains"
+    },
+    {
+        "name": "map",
+        "type": "toggle",
+        "img": "images/items/map.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "map"
+    },
+    {
+        "name": "birdseed",
+        "type": "toggle",
+        "img": "images/items/birdseed.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "birdseed"
+    },
+    {
+        "name": "snowtires",
+        "type": "toggle",
+        "img": "images/items/snowtiresfixed.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "snowtires"
+    },
+    {
+        "name": "shovel",
+        "type": "toggle",
+        "img": "images/items/shovel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shovel"
+    },
+    {
+        "name": "factorytunnel",
+        "type": "toggle",
+        "img": "images/items/factorytunnel.png",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "factorytunnel"
+    },
+    {
+        "name": "recoverydisc",
+        "type": "toggle",
+        "img": "images/items/recoverydisc.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "recoverydisc"
+    },
+    {
+        "name": "ducttape",
+        "type": "toggle",
+        "img": "images/items/ducttape.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ducttape"
+    },
+    {
+        "name": "firewood",
+        "type": "toggle",
+        "img": "images/items/firewood.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "firewood"
+    },
+    {
+        "name": "money",
+        "type": "toggle",
+        "img": "images/items/money.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "money"
+    },
+    {
+        "name": "fish",
+        "type": "toggle",
+        "img": "images/items/fish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fish"
+    },
+    {
+        "name": "handheldradio",
+        "type": "toggle",
+        "img": "images/items/handheldradio.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "handheldradio"
+    },
+    {
+        "name": "tea",
+        "type": "toggle",
+        "img": "images/items/tea.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tea"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

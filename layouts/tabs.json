@@ -1,0 +1,67 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Overworld",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Overworld"
+                    ]
+                }
+            },
+ {
+                "title": "Perfect Deliveries",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Perfect Deliveries"
+                    ]
+                }
+            },
+            {
+                "title": "Blind Bags",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Blind Bags"
+                    ]
+                }
+            }
+        ]
+    },
+
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Overworld",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Overworld"
+                    ]
+                }
+            },
+ {
+                "title": "Perfect Deliveries",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Perfect Deliveries"
+                    ]
+                }
+            },
+            {
+                "title": "Blind Bags",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Blind Bags"
+                    ]
+                }
+            }
+        ]
+    }
+}

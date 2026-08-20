@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Radio Towers",
+        "access_rules": [
+            "map"
+        ],
+        "children": [
+            {
+                "name": "Upton",
+                "access_rules": [],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Radio Towers",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 427,
+                        "y": 708,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Upton",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Easton",
+                "access_rules": [
+                    "lighter"
+                ],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Radio Towers",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 967,
+                        "y": 874,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Easton",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowy Peaks",
+                "access_rules": [
+                    "lighter,snowtires,snowypeakstunnel",
+                    "tea,snowtires,snowypeakstunnel",
+                    "coffee,snowtires,snowypeakstunnel"
+                ],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Radio Towers",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 677,
+                        "y": 196,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Snowy Peaks",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fishing Town",
+                "access_rules": [
+                    "snowtires,icechains,bumperbar,fishingtowntunnel,$three_radio_towers"
+                ],
+                "visibility_rules": [],
+                "map_locations": [
+                    {
+                        "map": "Radio Towers",
+                        "x": 0,
+                        "y": 0,
+                        "size": 6
+                    },
+                    {
+                        "map": "Overworld",
+                        "x": 1357,
+                        "y": 690,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Fishing Town",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

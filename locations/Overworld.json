@@ -1,0 +1,1092 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Blind Bags",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mountain Town - Bag 1",
+                        "ref": "Blind Bags/Mountain Town/Bag 1"
+                    },
+                    {
+                        "name": "Mountain Town - Bag 2",
+                        "ref": "Blind Bags/Mountain Town/Bag 2"
+                    },
+                    {
+                        "name": "Mountain Town - Bag 3",
+                        "ref": "Blind Bags/Mountain Town/Bag 3"
+                    },
+                    {
+                        "name": "Mountain Town - Bag 4",
+                        "ref": "Blind Bags/Mountain Town/Bag 4"
+                    },
+                    {
+                        "name": "Snowy Peaks - Bag 1",
+                        "ref": "Blind Bags/Snowy Peaks/Bag 1"
+                    },
+                    {
+                        "name": "Snowy Peaks - Bag 2",
+                        "ref": "Blind Bags/Snowy Peaks/Bag 2"
+                    },
+                    {
+                        "name": "Snowy Peaks - Bag 3",
+                        "ref": "Blind Bags/Snowy Peaks/Bag 3"
+                    },
+                    {
+                        "name": "Snowy Peaks - Bag 4",
+                        "ref": "Blind Bags/Snowy Peaks/Bag 4"
+                    },
+                    {
+                        "name": "Fishing Town - Bag 1",
+                        "ref": "Blind Bags/Fishing Town/Bag 1"
+                    },
+                    {
+                        "name": "Fishing Town - Bag 2",
+                        "ref": "Blind Bags/Fishing Town/Bag 2"
+                    },
+                    {
+                        "name": "Fishing Town - Bag 3",
+                        "ref": "Blind Bags/Fishing Town/Bag 3"
+                    },
+                    {
+                        "name": "Fishing Town - Bag 4",
+                        "ref": "Blind Bags/Fishing Town/Bag 4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Clifton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "To Upton - Delivery",
+                        "ref": "Clifton/To Upton/Delivery"
+                    },
+                    {
+                        "name": "To Upton - Perfect Delivery",
+                        "ref": "Clifton/To Upton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Weston - Delivery",
+                        "ref": "Clifton/To Weston/Delivery"
+                    },
+                    {
+                        "name": "To Weston - Perfect Delivery",
+                        "ref": "Clifton/To Weston/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Easton - Delivery",
+                        "ref": "Clifton/To Easton/Delivery"
+                    },
+                    {
+                        "name": "To Easton - Perfect Delivery",
+                        "ref": "Clifton/To Easton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Winton - Delivery",
+                        "ref": "Clifton/To Winton/Delivery"
+                    },
+                    {
+                        "name": "To Winton - Perfect Delivery",
+                        "ref": "Clifton/To Winton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Munton - Delivery",
+                        "ref": "Clifton/To Munton/Delivery"
+                    },
+                    {
+                        "name": "To Munton - Perfect Delivery",
+                        "ref": "Clifton/To Munton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Delivery",
+                        "ref": "Clifton/To Lopton/Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Perfect Delivery",
+                        "ref": "Clifton/To Lopton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Delivery",
+                        "ref": "Clifton/To Clifton/Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Perfect Delivery",
+                        "ref": "Clifton/To Clifton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Damton - Delivery",
+                        "ref": "Clifton/To Damton/Delivery"
+                    },
+                    {
+                        "name": "To Damton - Perfect Delivery",
+                        "ref": "Clifton/To Damton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Delivery",
+                        "ref": "Clifton/To Smalton/Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Perfect Delivery",
+                        "ref": "Clifton/To Smalton/Perfect Delivery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Damton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "To Upton - Delivery",
+                        "ref": "Damton/To Upton/Delivery"
+                    },
+                    {
+                        "name": "To Upton - Perfect Delivery",
+                        "ref": "Damton/To Upton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Weston - Delivery",
+                        "ref": "Damton/To Weston/Delivery"
+                    },
+                    {
+                        "name": "To Weston - Perfect Delivery",
+                        "ref": "Damton/To Weston/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Easton - Delivery",
+                        "ref": "Damton/To Easton/Delivery"
+                    },
+                    {
+                        "name": "To Easton - Perfect Delivery",
+                        "ref": "Damton/To Easton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Winton - Delivery",
+                        "ref": "Damton/To Winton/Delivery"
+                    },
+                    {
+                        "name": "To Winton - Perfect Delivery",
+                        "ref": "Damton/To Winton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Munton - Delivery",
+                        "ref": "Damton/To Munton/Delivery"
+                    },
+                    {
+                        "name": "To Munton - Perfect Delivery",
+                        "ref": "Damton/To Munton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Delivery",
+                        "ref": "Damton/To Lopton/Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Perfect Delivery",
+                        "ref": "Damton/To Lopton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Delivery",
+                        "ref": "Damton/To Clifton/Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Perfect Delivery",
+                        "ref": "Damton/To Clifton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Damton - Delivery",
+                        "ref": "Damton/To Damton/Delivery"
+                    },
+                    {
+                        "name": "To Damton - Perfect Delivery",
+                        "ref": "Damton/To Damton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Delivery",
+                        "ref": "Damton/To Smalton/Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Perfect Delivery",
+                        "ref": "Damton/To Smalton/Perfect Delivery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Deliveries",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Deliveries - Big Box",
+                        "ref": "Deliveries/Big Box"
+                    },
+                    {
+                        "name": "Deliveries - Big Box Stack",
+                        "ref": "Deliveries/Big Box Stack"
+                    },
+                    {
+                        "name": "Deliveries - Box Bunch",
+                        "ref": "Deliveries/Box Bunch"
+                    },
+                    {
+                        "name": "Deliveries - Box Stack",
+                        "ref": "Deliveries/Box Stack"
+                    },
+                    {
+                        "name": "Deliveries - Crate",
+                        "ref": "Deliveries/Crate"
+                    },
+                    {
+                        "name": "Deliveries - Crate of Drinks",
+                        "ref": "Deliveries/Crate of Drinks"
+                    },
+                    {
+                        "name": "Deliveries - Crate Stack",
+                        "ref": "Deliveries/Crate Stack"
+                    },
+                    {
+                        "name": "Deliveries - Lots of Crates of Drinks",
+                        "ref": "Deliveries/Lots of Crates of Drinks"
+                    },
+                    {
+                        "name": "Deliveries - Pizza Stack",
+                        "ref": "Deliveries/Pizza Stack"
+                    },
+                    {
+                        "name": "Deliveries - Pizza Stack Mega",
+                        "ref": "Deliveries/Pizza Stack Mega"
+                    },
+                    {
+                        "name": "Deliveries - Plant Pot",
+                        "ref": "Deliveries/Plant Pot"
+                    },
+                    {
+                        "name": "Deliveries - Plant Pot Bunch",
+                        "ref": "Deliveries/Plant Pot Bunch"
+                    },
+                    {
+                        "name": "Deliveries - Plant Pot Stack",
+                        "ref": "Deliveries/Plant Pot Stack"
+                    },
+                    {
+                        "name": "Deliveries - Plant Pot Wide",
+                        "ref": "Deliveries/Plant Pot Wide"
+                    },
+                    {
+                        "name": "Deliveries - Sack",
+                        "ref": "Deliveries/Sack"
+                    },
+                    {
+                        "name": "Deliveries - Sack Stack",
+                        "ref": "Deliveries/Sack Stack"
+                    },
+                    {
+                        "name": "Deliveries - Drink",
+                        "ref": "Deliveries/Drink"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Easton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "To Upton - Delivery",
+                        "ref": "Easton/To Upton/Delivery"
+                    },
+                    {
+                        "name": "To Upton - Perfect Delivery",
+                        "ref": "Easton/To Upton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Weston - Delivery",
+                        "ref": "Easton/To Weston/Delivery"
+                    },
+                    {
+                        "name": "To Weston - Perfect Delivery",
+                        "ref": "Easton/To Weston/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Easton - Delivery",
+                        "ref": "Easton/To Easton/Delivery"
+                    },
+                    {
+                        "name": "To Easton - Perfect Delivery",
+                        "ref": "Easton/To Easton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Winton - Delivery",
+                        "ref": "Easton/To Winton/Delivery"
+                    },
+                    {
+                        "name": "To Winton - Perfect Delivery",
+                        "ref": "Easton/To Winton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Munton - Delivery",
+                        "ref": "Easton/To Munton/Delivery"
+                    },
+                    {
+                        "name": "To Munton - Perfect Delivery",
+                        "ref": "Easton/To Munton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Delivery",
+                        "ref": "Easton/To Lopton/Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Perfect Delivery",
+                        "ref": "Easton/To Lopton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Delivery",
+                        "ref": "Easton/To Clifton/Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Perfect Delivery",
+                        "ref": "Easton/To Clifton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Damton - Delivery",
+                        "ref": "Easton/To Damton/Delivery"
+                    },
+                    {
+                        "name": "To Damton - Perfect Delivery",
+                        "ref": "Easton/To Damton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Delivery",
+                        "ref": "Easton/To Smalton/Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Perfect Delivery",
+                        "ref": "Easton/To Smalton/Perfect Delivery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lopton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "To Upton - Delivery",
+                        "ref": "Lopton/To Upton/Delivery"
+                    },
+                    {
+                        "name": "To Upton - Perfect Delivery",
+                        "ref": "Lopton/To Upton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Weston - Delivery",
+                        "ref": "Lopton/To Weston/Delivery"
+                    },
+                    {
+                        "name": "To Weston - Perfect Delivery",
+                        "ref": "Lopton/To Weston/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Easton - Delivery",
+                        "ref": "Lopton/To Easton/Delivery"
+                    },
+                    {
+                        "name": "To Easton - Perfect Delivery",
+                        "ref": "Lopton/To Easton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Winton - Delivery",
+                        "ref": "Lopton/To Winton/Delivery"
+                    },
+                    {
+                        "name": "To Winton - Perfect Delivery",
+                        "ref": "Lopton/To Winton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Munton - Delivery",
+                        "ref": "Lopton/To Munton/Delivery"
+                    },
+                    {
+                        "name": "To Munton - Perfect Delivery",
+                        "ref": "Lopton/To Munton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Delivery",
+                        "ref": "Lopton/To Lopton/Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Perfect Delivery",
+                        "ref": "Lopton/To Lopton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Delivery",
+                        "ref": "Lopton/To Clifton/Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Perfect Delivery",
+                        "ref": "Lopton/To Clifton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Damton - Delivery",
+                        "ref": "Lopton/To Damton/Delivery"
+                    },
+                    {
+                        "name": "To Damton - Perfect Delivery",
+                        "ref": "Lopton/To Damton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Delivery",
+                        "ref": "Lopton/To Smalton/Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Perfect Delivery",
+                        "ref": "Lopton/To Smalton/Perfect Delivery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Munton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "To Upton - Delivery",
+                        "ref": "Munton/To Upton/Delivery"
+                    },
+                    {
+                        "name": "To Upton - Perfect Delivery",
+                        "ref": "Munton/To Upton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Weston - Delivery",
+                        "ref": "Munton/To Weston/Delivery"
+                    },
+                    {
+                        "name": "To Weston - Perfect Delivery",
+                        "ref": "Munton/To Weston/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Easton - Delivery",
+                        "ref": "Munton/To Easton/Delivery"
+                    },
+                    {
+                        "name": "To Easton - Perfect Delivery",
+                        "ref": "Munton/To Easton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Winton - Delivery",
+                        "ref": "Munton/To Winton/Delivery"
+                    },
+                    {
+                        "name": "To Winton - Perfect Delivery",
+                        "ref": "Munton/To Winton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Munton - Delivery",
+                        "ref": "Munton/To Munton/Delivery"
+                    },
+                    {
+                        "name": "To Munton - Perfect Delivery",
+                        "ref": "Munton/To Munton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Delivery",
+                        "ref": "Munton/To Lopton/Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Perfect Delivery",
+                        "ref": "Munton/To Lopton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Delivery",
+                        "ref": "Munton/To Clifton/Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Perfect Delivery",
+                        "ref": "Munton/To Clifton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Damton - Delivery",
+                        "ref": "Munton/To Damton/Delivery"
+                    },
+                    {
+                        "name": "To Damton - Perfect Delivery",
+                        "ref": "Munton/To Damton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Delivery",
+                        "ref": "Munton/To Smalton/Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Perfect Delivery",
+                        "ref": "Munton/To Smalton/Perfect Delivery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Radio Towers",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Radio Towers - Upton",
+                        "ref": "Radio Towers/Upton"
+                    },
+                    {
+                        "name": "Radio Towers - Easton",
+                        "ref": "Radio Towers/Easton"
+                    },
+                    {
+                        "name": "Radio Towers - Snowy Peaks",
+                        "ref": "Radio Towers/Snowy Peaks"
+                    },
+                    {
+                        "name": "Radio Towers - Fishing Town",
+                        "ref": "Radio Towers/Fishing Town"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Smalton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "To Upton - Delivery",
+                        "ref": "Smalton/To Upton/Delivery"
+                    },
+                    {
+                        "name": "To Upton - Perfect Delivery",
+                        "ref": "Smalton/To Upton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Weston - Delivery",
+                        "ref": "Smalton/To Weston/Delivery"
+                    },
+                    {
+                        "name": "To Weston - Perfect Delivery",
+                        "ref": "Smalton/To Weston/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Easton - Delivery",
+                        "ref": "Smalton/To Easton/Delivery"
+                    },
+                    {
+                        "name": "To Easton - Perfect Delivery",
+                        "ref": "Smalton/To Easton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Winton - Delivery",
+                        "ref": "Smalton/To Winton/Delivery"
+                    },
+                    {
+                        "name": "To Winton - Perfect Delivery",
+                        "ref": "Smalton/To Winton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Munton - Delivery",
+                        "ref": "Smalton/To Munton/Delivery"
+                    },
+                    {
+                        "name": "To Munton - Perfect Delivery",
+                        "ref": "Smalton/To Munton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Delivery",
+                        "ref": "Smalton/To Lopton/Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Perfect Delivery",
+                        "ref": "Smalton/To Lopton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Delivery",
+                        "ref": "Smalton/To Clifton/Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Perfect Delivery",
+                        "ref": "Smalton/To Clifton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Damton - Delivery",
+                        "ref": "Smalton/To Damton/Delivery"
+                    },
+                    {
+                        "name": "To Damton - Perfect Delivery",
+                        "ref": "Smalton/To Damton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Delivery",
+                        "ref": "Smalton/To Smalton/Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Perfect Delivery",
+                        "ref": "Smalton/To Smalton/Perfect Delivery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Snowcats",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Snowcats - Theo",
+                        "ref": "Snowcats/Theo"
+                    },
+                    {
+                        "name": "Snowcats - Cici",
+                        "ref": "Snowcats/Cici"
+                    },
+                    {
+                        "name": "Snowcats - Fortino",
+                        "ref": "Snowcats/Fortino"
+                    },
+                    {
+                        "name": "Snowcats - Ellie",
+                        "ref": "Snowcats/Ellie"
+                    },
+                    {
+                        "name": "Snowcats - Fit",
+                        "ref": "Snowcats/Fit"
+                    },
+                    {
+                        "name": "Snowcats - Tooey",
+                        "ref": "Snowcats/Tooey"
+                    },
+                    {
+                        "name": "Snowcats - Reed",
+                        "ref": "Snowcats/Reed"
+                    },
+                    {
+                        "name": "Snowcats - Fives",
+                        "ref": "Snowcats/Fives"
+                    },
+                    {
+                        "name": "Snowcats - Sixo",
+                        "ref": "Snowcats/Sixo"
+                    },
+                    {
+                        "name": "Snowcats - Ada",
+                        "ref": "Snowcats/Ada"
+                    },
+                    {
+                        "name": "Snowcats - Foreman",
+                        "ref": "Snowcats/Foreman"
+                    },
+                    {
+                        "name": "Snowcats - Gus",
+                        "ref": "Snowcats/Gus"
+                    },
+                    {
+                        "name": "Snowcats - Seb",
+                        "ref": "Snowcats/Seb"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Upton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "To Upton - Delivery",
+                        "ref": "Upton/To Upton/Delivery"
+                    },
+                    {
+                        "name": "To Upton - Perfect Delivery",
+                        "ref": "Upton/To Upton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Weston - Delivery",
+                        "ref": "Upton/To Weston/Delivery"
+                    },
+                    {
+                        "name": "To Weston - Perfect Delivery",
+                        "ref": "Upton/To Weston/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Easton - Delivery",
+                        "ref": "Upton/To Easton/Delivery"
+                    },
+                    {
+                        "name": "To Easton - Perfect Delivery",
+                        "ref": "Upton/To Easton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Winton - Delivery",
+                        "ref": "Upton/To Winton/Delivery"
+                    },
+                    {
+                        "name": "To Winton - Perfect Delivery",
+                        "ref": "Upton/To Winton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Munton - Delivery",
+                        "ref": "Upton/To Munton/Delivery"
+                    },
+                    {
+                        "name": "To Munton - Perfect Delivery",
+                        "ref": "Upton/To Munton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Delivery",
+                        "ref": "Upton/To Lopton/Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Perfect Delivery",
+                        "ref": "Upton/To Lopton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Delivery",
+                        "ref": "Upton/To Clifton/Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Perfect Delivery",
+                        "ref": "Upton/To Clifton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Damton - Delivery",
+                        "ref": "Upton/To Damton/Delivery"
+                    },
+                    {
+                        "name": "To Damton - Perfect Delivery",
+                        "ref": "Upton/To Damton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Delivery",
+                        "ref": "Upton/To Smalton/Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Perfect Delivery",
+                        "ref": "Upton/To Smalton/Perfect Delivery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1461,
+                        "y": 1876,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Weston",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "To Upton - Delivery",
+                        "ref": "Weston/To Upton/Delivery"
+                    },
+                    {
+                        "name": "To Upton - Perfect Delivery",
+                        "ref": "Weston/To Upton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Weston - Delivery",
+                        "ref": "Weston/To Weston/Delivery"
+                    },
+                    {
+                        "name": "To Weston - Perfect Delivery",
+                        "ref": "Weston/To Weston/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Easton - Delivery",
+                        "ref": "Weston/To Easton/Delivery"
+                    },
+                    {
+                        "name": "To Easton - Perfect Delivery",
+                        "ref": "Weston/To Easton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Winton - Delivery",
+                        "ref": "Weston/To Winton/Delivery"
+                    },
+                    {
+                        "name": "To Winton - Perfect Delivery",
+                        "ref": "Weston/To Winton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Munton - Delivery",
+                        "ref": "Weston/To Munton/Delivery"
+                    },
+                    {
+                        "name": "To Munton - Perfect Delivery",
+                        "ref": "Weston/To Munton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Delivery",
+                        "ref": "Weston/To Lopton/Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Perfect Delivery",
+                        "ref": "Weston/To Lopton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Delivery",
+                        "ref": "Weston/To Clifton/Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Perfect Delivery",
+                        "ref": "Weston/To Clifton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Damton - Delivery",
+                        "ref": "Weston/To Damton/Delivery"
+                    },
+                    {
+                        "name": "To Damton - Perfect Delivery",
+                        "ref": "Weston/To Damton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Delivery",
+                        "ref": "Weston/To Smalton/Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Perfect Delivery",
+                        "ref": "Weston/To Smalton/Perfect Delivery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Winton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "To Upton - Delivery",
+                        "ref": "Winton/To Upton/Delivery"
+                    },
+                    {
+                        "name": "To Upton - Perfect Delivery",
+                        "ref": "Winton/To Upton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Weston - Delivery",
+                        "ref": "Winton/To Weston/Delivery"
+                    },
+                    {
+                        "name": "To Weston - Perfect Delivery",
+                        "ref": "Winton/To Weston/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Easton - Delivery",
+                        "ref": "Winton/To Easton/Delivery"
+                    },
+                    {
+                        "name": "To Easton - Perfect Delivery",
+                        "ref": "Winton/To Easton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Winton - Delivery",
+                        "ref": "Winton/To Winton/Delivery"
+                    },
+                    {
+                        "name": "To Winton - Perfect Delivery",
+                        "ref": "Winton/To Winton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Munton - Delivery",
+                        "ref": "Winton/To Munton/Delivery"
+                    },
+                    {
+                        "name": "To Munton - Perfect Delivery",
+                        "ref": "Winton/To Munton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Delivery",
+                        "ref": "Winton/To Lopton/Delivery"
+                    },
+                    {
+                        "name": "To Lopton - Perfect Delivery",
+                        "ref": "Winton/To Lopton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Delivery",
+                        "ref": "Winton/To Clifton/Delivery"
+                    },
+                    {
+                        "name": "To Clifton - Perfect Delivery",
+                        "ref": "Winton/To Clifton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Damton - Delivery",
+                        "ref": "Winton/To Damton/Delivery"
+                    },
+                    {
+                        "name": "To Damton - Perfect Delivery",
+                        "ref": "Winton/To Damton/Perfect Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Delivery",
+                        "ref": "Winton/To Smalton/Delivery"
+                    },
+                    {
+                        "name": "To Smalton - Perfect Delivery",
+                        "ref": "Winton/To Smalton/Perfect Delivery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 584,
+                        "y": 1855,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

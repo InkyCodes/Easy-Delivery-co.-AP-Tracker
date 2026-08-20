@@ -12,3 +12,36 @@ function three_radio_towers()
         and easton.AvailableChestCount < easton.ChestCount
         and snowy.AvailableChestCount < snowy.ChestCount
 end
+
+
+function SnowcatsEnabled()
+    -- Ohne aktive AP-Verbindung immer sichtbar
+    if Archipelago.PlayerNumber == -1 then
+        return true
+    end
+
+    return SLOT_DATA
+        and SLOT_DATA["snowcats"] == 1
+end
+
+
+function BlindBagsEnabled()
+    -- Ohne aktive AP-Verbindung immer sichtbar
+    if Archipelago.PlayerNumber == -1 then
+        return true
+    end
+
+    return SLOT_DATA
+        and SLOT_DATA["blind_bags"] == 1
+end
+
+
+function PerfectDeliveriesEnabled()
+    -- Ohne aktive AP-Verbindung immer sichtbar
+    if Archipelago.PlayerNumber == -1 then
+        return true
+    end
+
+    return SLOT_DATA
+        and SLOT_DATA["perfect_deliveries"] == 1
+end

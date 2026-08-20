@@ -401,7 +401,34 @@ end
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
-    -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
+
+-- Tunnel abhängig von der AP-Einstellung setzen
+local tunnel_codes = {
+    "snowypeakstunnel",
+    "fishingtowntunnel",
+    "factorytunnel"
+}
+
+if slot_data and slot_data["blocked_tunnels"] == 0 then
+    -- Keine Blockaden -> alle Tunnel offen
+    for _, code in ipairs(tunnel_codes) do
+        local item = Tracker:FindObjectForCode(code)
+        if item then
+            item.Active = true
+        end
+    end
+
+elseif slot_data and slot_data["blocked_tunnels"] == 1 then
+    -- Blockaden aktiv -> Tunnel müssen erst als AP-Items erhalten werden
+    for _, code in ipairs(tunnel_codes) do
+        local item = Tracker:FindObjectForCode(code)
+        if item then
+            item.Active = false
+        end
+    end
+end
+
+-- if Tracker:FindObjectForCode("autofill_settings").Active == true then
     --     AutoFill(slot_data)
     -- end
     -- print(PLAYER_ID, TEAM_NUMBER)
@@ -433,6 +460,14 @@ end
 function OnItem(index, item_id, item_name, player_number)
 
     print("AP ITEM:", item_id, item_name, player_number)
+
+    print(string.format(
+        "RADIO DEBUG: index=%s id=%s name=%s player=%s",
+        tostring(index),
+        tostring(item_id),
+        tostring(item_name),
+        tostring(player_number)
+    ))
 
     if index <= CUR_INDEX then
         return
@@ -477,6 +512,28 @@ function OnItem(index, item_id, item_name, player_number)
                 consumable_multiplier,
                 false
             )
+
+            -- Radio Tower (AP item 20) is received as four identical copies.
+            -- Keep the technical 0-4 counter, and light one visible tower icon
+            -- for each copy received.
+            if item_id == 20 and item_code == "radiotower" then
+                local tower_count = item_obj.AcquiredCount or 0
+                local tower_icons = {
+                    "radiotower_upton",
+                    "radiotower_easton",
+                    "radiotower_snowypeaks",
+                    "radiotower_fishingtown"
+                }
+
+                for i, code in ipairs(tower_icons) do
+                    local tower = Tracker:FindObjectForCode(code)
+                    if tower then
+                        tower.Active = (i <= tower_count)
+                    end
+                end
+
+                print("RADIO TOWER COUNT:", tower_count)
+            end
         else
             print(
                 string.format(

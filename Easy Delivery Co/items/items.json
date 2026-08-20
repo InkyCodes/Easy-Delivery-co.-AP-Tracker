@@ -15,38 +15,50 @@
         "overlay_align": "right",
         "codes": "bumperbar"
     },
-{
-    "name": "radiotower_upton",
-    "type": "toggle",
-    "img": "images/items/radiotower_upton.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "radiotower_upton"
-},
-{
-    "name": "radiotower_easton",
-    "type": "toggle",
-    "img": "images/items/radiotower_easton.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "radiotower_easton"
-},
-{
-    "name": "radiotower_snowypeaks",
-    "type": "toggle",
-    "img": "images/items/radiotower_snowypeaks.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "radiotower_snowypeaks"
-},
-{
-    "name": "radiotower_fishingtown",
-    "type": "toggle",
-    "img": "images/items/radiotower_fishingtown.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "radiotower_fishingtown"
-},
+    {
+        "name": "radiotower_upton",
+        "type": "toggle",
+        "img": "images/items/radiotower_upton.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "radiotower_upton"
+    },
+    {
+        "name": "radiotower_easton",
+        "type": "toggle",
+        "img": "images/items/radiotower_easton.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "radiotower_easton"
+    },
+    {
+        "name": "radiotower_snowypeaks",
+        "type": "toggle",
+        "img": "images/items/radiotower_snowypeaks.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "radiotower_snowypeaks"
+    },
+    {
+        "name": "radiotower_fishingtown",
+        "type": "toggle",
+        "img": "images/items/radiotower_fishingtown.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "radiotower_fishingtown"
+    },
+    {
+        "name": "radiotower",
+        "type": "consumable",
+        "img": "images/items/radiotower_upton.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "initial_quantity": 0,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "codes": "radiotower"
+    },
     {
         "name": "emptycan",
         "type": "toggle",
@@ -91,7 +103,7 @@
         "name": "snowypeakstunnel",
         "type": "toggle",
         "img": "images/items/snowypeakstunnel.png",
-        "initial_active_state": true,
+        "initial_active_state": false,
         "overlay_align": "right",
         "codes": "snowypeakstunnel"
     },
@@ -99,7 +111,7 @@
         "name": "fishingtowntunnel",
         "type": "toggle",
         "img": "images/items/fishingtowntunnel.png",
-        "initial_active_state": true,
+        "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fishingtowntunnel"
     },
@@ -179,7 +191,7 @@
         "name": "factorytunnel",
         "type": "toggle",
         "img": "images/items/factorytunnel.png",
-        "initial_active_state": true,
+        "initial_active_state": false,
         "overlay_align": "right",
         "codes": "factorytunnel"
     },

@@ -5,4 +5,16 @@
     "location_border_thickness": 1,
     "img": "images/maps/Overworld.png"
     },
+    {
+    "name": "Perfect Deliveries",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Perfect.png"
+    },
+    {
+    "name": "Blind Bags",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Blind.png"
+    }
 ]

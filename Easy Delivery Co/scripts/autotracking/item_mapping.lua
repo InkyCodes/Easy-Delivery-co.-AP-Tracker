@@ -17,13 +17,16 @@ ITEM_MAPPING = {
 	[115] = {{"ducttape", "toggle"}},
 	[116] = {{"recoverydisc", "toggle"}},
 	[117] = {{"handheldradio", "toggle"}},
+
 	[1] = {{"map", "toggle"}},
 	[2] = {{"snowtires", "toggle"}},
 	[3] = {{"bumperbar", "toggle"}},
 	[4] = {{"icechains", "toggle"}},
+
 	[10] = {{"money", "toggle"}},
 	[11] = {{"snowypeakstunnel", "toggle"}},
 	[12] = {{"fishingtowntunnel", "toggle"}},
 	[13] = {{"factorytunnel", "toggle"}},
-	[20] = {{"radiotower", "toggle"}},
+
+	[20] = {{"radiotower", "consumable"}},
 }

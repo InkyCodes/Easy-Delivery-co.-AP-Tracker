@@ -2,8 +2,8 @@
     {
         "name": "Radio Towers",
         "access_rules": [
-    "map"
-],
+            "map"
+        ],
         "children": [
             {
                 "name": "Upton",
@@ -18,8 +18,8 @@
                     },
                     {
                         "map": "Overworld",
-                        "x": 156,
-                        "y": 714,
+                        "x": 427,
+                        "y": 708,
                         "size": 20,
                         "shape": "trapezoid"
                     }
@@ -48,8 +48,8 @@
                     },
                     {
                         "map": "Overworld",
-                        "x": 743,
-                        "y": 889,
+                        "x": 967,
+                        "y": 874,
                         "size": 20,
                         "shape": "trapezoid"
                     }
@@ -66,7 +66,9 @@
             {
                 "name": "Snowy Peaks",
                 "access_rules": [
-                    "snowtires,snowypeakstunnel"
+                    "lighter,snowtires,snowypeakstunnel",
+                    "tea,snowtires,snowypeakstunnel",
+                    "coffee,snowtires,snowypeakstunnel"
                 ],
                 "visibility_rules": [],
                 "map_locations": [
@@ -78,8 +80,8 @@
                     },
                     {
                         "map": "Overworld",
-                        "x": 582,
-                        "y": 201,
+                        "x": 677,
+                        "y": 196,
                         "size": 20,
                         "shape": "trapezoid"
                     }
@@ -95,9 +97,9 @@
             },
             {
                 "name": "Fishing Town",
-               "access_rules": [
-    "icechains,bumperbar,fishingtowntunnel,$three_radio_towers"
-],
+                "access_rules": [
+                    "snowtires,icechains,bumperbar,fishingtowntunnel,$three_radio_towers"
+                ],
                 "visibility_rules": [],
                 "map_locations": [
                     {
@@ -108,8 +110,8 @@
                     },
                     {
                         "map": "Overworld",
-                        "x": 1084,
-                        "y": 688,
+                        "x": 1357,
+                        "y": 690,
                         "size": 20,
                         "shape": "trapezoid"
                     }
